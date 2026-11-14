@@ -1,4 +1,6 @@
-# Jacksmith: Weapons and Warriors Steam Hack (.SOL Save Editor)
+# Jacksmith Save Editor
+
+Local `.sol` save editor for Jacksmith: Weapons and Warriors (Steam).
 
 A powerful .SOL save editor for Jacksmith: Weapons and Warriors (Steam version). Customize your game progress and unlock all items with this handy tool.
 
@@ -41,10 +43,10 @@ This tool allows users to open, view, and modify `.sol` save files from the game
 
 1.  **Download/Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/jacksmith-weaponsandwarriors_steam_cheat.git
-    cd jacksmith-weaponsandwarriors_steam_cheat
+    git clone https://github.com/DubblePumper/jacksmith-save-editor.git
+    cd jacksmith-save-editor
     ```
-    (Replace `yourusername` with the actual username/organization of the repository if you forked it or if it's hosted elsewhere). If you downloaded the code as a ZIP, extract it.
+    If you downloaded the code as a ZIP, extract it.
 
 2.  **Install Dependencies:**
     It is recommended to use a virtual environment.
